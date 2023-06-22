@@ -1,1 +1,16 @@
-.png\n*
+*.dat
+*.par
+*.png
+
+.ipynb_checkpoints
+
+#File IOS
+*.DS_Store
+
+#ETK Folders
+Sod_1d_400
+Sod_1d_2
+Sod_1d_3
+TOV_example_ref0
+TOV_example_ref1
+TOV_example_ref2
